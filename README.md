@@ -73,3 +73,6 @@ Now, open your web browser and navigate to:
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 You should see the chat interface and can start a conversation with Gemini.
+
+![image](https://github.com/NSYSUHermit/Gemini_api_test/demo.jpg)
+
