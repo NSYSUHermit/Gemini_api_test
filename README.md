@@ -74,5 +74,5 @@ Now, open your web browser and navigate to:
 
 You should see the chat interface and can start a conversation with Gemini.
 
-![image](https://github.com/NSYSUHermit/Gemini_api_test/demo.png)
+![image]([https://github.com/NSYSUHermit/Gemini_api_test/demo.png](https://github.com/NSYSUHermit/Gemini_api_test/blob/main/demo.png))
 
